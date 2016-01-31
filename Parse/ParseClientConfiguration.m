@@ -17,7 +17,7 @@
 #import "PFHash.h"
 #import "PFObjectUtilities.h"
 
-NSString *const _ParseDefaultServerURLString = @"https://api.parse.com/1";
+NSString *const _ParseDefaultServerURLString = @"http://162.243.64.119:1337/parse";
 
 @implementation ParseClientConfiguration
 
